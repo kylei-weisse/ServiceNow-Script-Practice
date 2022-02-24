@@ -1,8 +1,4 @@
-for(var current = 0; current <20; current++){
-    if (current%2 == 0){
-        gs.print('the current number, '+ current+' is even');
-    }
-    else {
-        gs.print('the current number is odd: '+current);
-    }
+const favGames= ['Horizon', 'Smash Bros Ultimate', 'Tetris', 'Factorio'];
+for (var i = 0; i<favGames.length; i++){
+    gs.print("my #" + (i+1)+ " favorite game is " + favGames[i]);
 }
