@@ -1,5 +1,5 @@
 /*
-MVP: hourly weather update in 30030, pushed into a 
+MVP: hourly/realtime weather update in 30030, pushed into a 
 servicenow database. 
 Second step is a few more zip codes with some favorite campsites.
 Third step is dynamically create table based on a "create campsite" button.
@@ -11,6 +11,6 @@ and every 10 hours otherwise.
 
 ServiceNow specific things:
     put the zipcode request as a service request 
-    
+
 */
 
