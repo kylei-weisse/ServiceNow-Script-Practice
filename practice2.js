@@ -1,0 +1,1 @@
+var someIncidents = newGlideRecor('incidents')
